@@ -1,0 +1,23 @@
+/*@import "tailwindcss"; */
+
+h1{
+  color: #c90000;
+  text-align: center;
+  font-size: 200px;
+  background-color: rgb(160, 208, 250);
+  width: 400px;
+  height: 200px;
+  border: 2px dotted black;
+  border-radius: 20px;
+  padding: 10px;
+}
+h1:hover{
+  font-size: 250px;
+  text-align: center;
+  background-color: #c90000;
+  color: white;
+  border:  4px solid black;
+  border-radius: 30px;
+  padding: 20px;
+
+}
